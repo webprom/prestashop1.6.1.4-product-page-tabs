@@ -5,4 +5,4 @@ You will have to modify CSS colors etc. to fit your theme. I hide titles of tabs
 
 Also you'll have to translate "Reviews" word from Translations > YourTheme inside Prestashop Back-End.
 
-Credits: https://www.facebook.com/webpromdesign
+Give a like: https://www.facebook.com/webpromdesign
