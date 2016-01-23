@@ -1,0 +1,46 @@
+/* ADD TO GLOBAL.CSS OR PRODUCT.CSS OF YOUR THEME */
+/* product page tabs */
+#product-tabs {
+	margin-bottom: 0;
+}
+#product-tabs li {
+	float: left;
+}
+#product-tabs a {
+	background: #43bebd;
+	color: #fff;
+	display: block;
+	font: 0.92em/1.5 'Open Sans', sans-serif;
+	padding: 0.8em 0.5em;
+	text-transform: uppercase;
+	margin: 1px 1px 1px 0;
+	text-decoration: none !important;
+}
+#product-tabs a:hover {
+	background: #2aa2a1;
+	color: #fff;
+}
+#product-tabs a.selected {
+	background: #e5e5e5 !important;
+	color: #777 !important;
+	cursor: default;
+}
+#product-info .page-product-box {
+	border: 1px solid #e5e5e5;
+	background: #fbfbfb;
+	padding: 1.5em !important;
+	margin-top: -1px;
+	min-height: 12.8em;
+}
+#page #product-info .rte {
+	padding: 0;
+}
+#product-info .page-product-heading {
+	display: none;
+}
+#product-info .page-product-box .table-data-sheet {
+	margin-bottom: 0;
+	border-left: 1px solid #d6d4d4;
+	border-right: 1px solid #d6d4d4;
+}
+/* eof tabs */
