@@ -1,0 +1,1 @@
+# prestashop1.6.1.4-product-page-tabs
