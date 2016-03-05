@@ -6,3 +6,5 @@ You will have to modify CSS colors etc. to fit your theme. I hide titles of tabs
 Also you'll have to translate "Reviews" word from Translations > YourTheme inside Prestashop Back-End.
 
 Give a like: https://www.facebook.com/webpromdesign
+
+P.S There is a problem with Accessories Tab slider. Find quick CSS fix in Issues https://github.com/webprom/prestashop1.6.1.4-product-page-tabs/issues/1
