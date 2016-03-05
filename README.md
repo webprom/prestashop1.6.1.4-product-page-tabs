@@ -1,5 +1,7 @@
 # prestashop 1.6.1.4 product page tabs
 
+Article is here: http://www.fix-css.com/2016/01/bring-back-prestashop-product-page-dynamic-tabs-in-default-theme-for-v-1-6-1-4/
+
 This is default theme product.tpl modified to display tabs + CSS to make them look better.
 You will have to modify CSS colors etc. to fit your theme. I hide titles of tabs content in CSS, unhide if needed.
 
